@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -DL -O11111115 -fo8 -N"D:\cursoPic\quinto\mikroClaboratorios\act4\Lab3y4.mcppi" -SP"C:\Users\Angel\mikroC PRO for PIC\Defs\" -SP"C:\Users\Angel\mikroC PRO for PIC\Uses\P16\" -SP"D:\cursoPic\quinto\mikroClaboratorios\act4\" -IP"C:\Users\Angel\mikroC PRO for PIC\Uses\P16\" "Lab3y4.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Lab3y4.c
+diagnostics: 66	123	Compiled Successfully	Lab3y4.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 347 (99%)	Used RAM (bytes): 5 (1%)  Free RAM (bytes): 347 (99%)
+hint: 0	1144	Used ROM (program words): 121 (1%)  Free ROM (program words): 8071 (99%)	Used ROM (program words): 121 (1%)  Free ROM (program words): 8071 (99%)
+diagnostics: 0	125	Project Linked Successfully	Lab3y4.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'Lab3y4.mcppi' completed: 94 ms	 
+diagnostics: 0	103	Finished successfully: 22 sep. 2019, 15:41:47	Lab3y4.mcppi

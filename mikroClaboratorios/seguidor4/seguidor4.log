@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -C -DL -O11111115 -fo4 -N"D:\cursoPic\quinto\mikroClaboratorios\seguidor4\seguidor4.mcppi" -SP"C:\Users\Angel\mikroC PRO for PIC\Defs\" -SP"C:\Users\Angel\mikroC PRO for PIC\Uses\P16\" -SP"D:\cursoPic\quinto\mikroClaboratorios\seguidor4\" -IP"C:\Users\Angel\mikroC PRO for PIC\Uses\P16\" "seguidor4.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_ADC_88X.mcl" "__Lib_PWM_c21.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	seguidor4.c
+diagnostics: 154	123	Compiled Successfully	seguidor4.c
+diagnostics: 0	127	All files Compiled in 63 ms	 
+hint: 0	1144	Used RAM (bytes): 84 (24%)  Free RAM (bytes): 268 (76%)	Used RAM (bytes): 84 (24%)  Free RAM (bytes): 268 (76%)
+hint: 0	1144	Used ROM (program words): 2709 (33%)  Free ROM (program words): 5483 (67%)	Used ROM (program words): 2709 (33%)  Free ROM (program words): 5483 (67%)
+diagnostics: 0	125	Project Linked Successfully	seguidor4.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'seguidor4.mcppi' completed: 125 ms	 
+diagnostics: 0	103	Finished successfully: 29 nov. 2019, 22:27:40	seguidor4.mcppi

@@ -1,0 +1,5 @@
+main
+	Mul_32x32_U
+	Div_32x32_S
+		SDIV3232L
+		COMFREM

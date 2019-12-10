@@ -1,0 +1,6 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -C -DL -O11111115 -fo8 -N"D:\cursoPic\quinto\mikroClaboratorios\proy3\proy3.mcppi" -SP"C:\Users\Angel\mikroC PRO for PIC\Defs\" -SP"C:\Users\Angel\mikroC PRO for PIC\Uses\P16\" -SP"D:\cursoPic\quinto\mikroClaboratorios\proy3\" -IP"C:\Users\Angel\mikroC PRO for PIC\Uses\P16\" "proy3.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_Sound.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	proy3.c
+error: 56	324	Undeclared identifier 'delay_ms' in expression	proy3.c
+error: 58	324	Undeclared identifier 'delay_ms' in expression	proy3.c
+error: 0	102	Finished (with errors): 21 oct. 2019, 16:35:07	proy3.mcppi

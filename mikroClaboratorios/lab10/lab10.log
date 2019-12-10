@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F887 -HEAP 8 -C -DL -O11111115 -fo8 -N"D:\cursoPic\quinto\mikroClaboratorios\lab10\lab10.mcppi" -SP"C:\Users\Angel\mikroC PRO for PIC\Defs\" -SP"C:\Users\Angel\mikroC PRO for PIC\Uses\P16\" -SP"D:\cursoPic\quinto\mikroClaboratorios\lab10\" -IP"C:\Users\Angel\mikroC PRO for PIC\Uses\P16\" "lab10.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_UART_c67.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	lab10.c
+warning: 35	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	lab10.c
+diagnostics: 114	123	Compiled Successfully	lab10.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 100 (28%)  Free RAM (bytes): 252 (72%)	Used RAM (bytes): 100 (28%)  Free RAM (bytes): 252 (72%)
+hint: 0	1144	HEAP RAM (bytes): 8	HEAP RAM (bytes): 8
+hint: 0	1144	Used ROM (program words): 696 (8%)  Free ROM (program words): 7496 (92%)	Used ROM (program words): 696 (8%)  Free ROM (program words): 7496 (92%)
+diagnostics: 0	125	Project Linked Successfully	lab10.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'lab10.mcppi' completed: 109 ms	 
+diagnostics: 0	103	Finished successfully: 11 nov. 2019, 18:11:15	lab10.mcppi
