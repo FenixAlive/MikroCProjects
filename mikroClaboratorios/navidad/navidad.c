@@ -22,7 +22,7 @@ void main() {
           luz += ADC_Read(0);
         }
         luz = luz / 5;
-        if(luz < 700){
+        if(luz < 500){
           if(PORTC && 0x01){
             Delay_ms(200);
             if(PORTC && 0x01){

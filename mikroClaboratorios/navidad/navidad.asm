@@ -114,14 +114,14 @@ L_main5:
 	MOVWF      _luz+2
 	MOVF       R0+3, 0
 	MOVWF      _luz+3
-;navidad.c,25 :: 		if(luz < 700){
+;navidad.c,25 :: 		if(luz < 500){
 	MOVLW      0
 	MOVWF      R4+0
 	MOVLW      0
 	MOVWF      R4+1
-	MOVLW      47
+	MOVLW      122
 	MOVWF      R4+2
-	MOVLW      136
+	MOVLW      135
 	MOVWF      R4+3
 	CALL       _Compare_Double+0
 	MOVLW      1
